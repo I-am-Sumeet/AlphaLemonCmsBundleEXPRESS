@@ -58,7 +58,7 @@ You can read AlphaLemon CMS official documentation at alphalemon.com:
 AlphaLemon CMS [documentation repository](https://github.com/alphalemon/alphalemon-docs)
 lives at github.
 
-
+# Sumeet Lonare
 Support
 -------
 If you require support you can ask for help at [AlphaLemon CSM users forum](https://groups.google.com/forum/?hl=it#!forum/alphalemoncms-users).
